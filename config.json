@@ -1,7 +1,18 @@
 {
-  "app_update": [
-    "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@main/app_update.json"
-  ],
-  "editor_fonts": [],
-  "editor_backgrounds": []
+  "app_update": {
+    "body": {},
+    "url": [
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.2/app_update.json"
+    ]
+  },
+  "editor_fonts": {
+    "body": [],
+    "url": []
+  },
+  "editor_backgrounds": {
+    "body": [],
+    "url": [
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.2/editor_backgrounds.json"
+    ]
+  }
 }
