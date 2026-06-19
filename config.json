@@ -11,8 +11,10 @@
   },
   "editor_backgrounds": {
     "body": [],
-    "url": [
-      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.4/background.zip"
+    "url": [],
+    "parts": [
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.5/part_1.zip",
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.5/part_2.zip"
     ]
   }
 }
