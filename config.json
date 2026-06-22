@@ -2,21 +2,21 @@
   "app_update": {
     "body": {},
     "url": [
-      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.4/app_update.json"
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/app_update.json"
     ]
   },
   "editor_fonts": {
     "body": [],
     "url": [
-      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.6/font_config.json"
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/font_config.json"
     ]
   },
   "editor_backgrounds": {
     "body": [],
     "url": [],
     "parts": [
-      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.6/part_1.zip",
-      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.6/part_2.zip"
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/part_1.zip",
+      "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/part_2.zip"
     ]
   }
 }
