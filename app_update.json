@@ -25,13 +25,13 @@
           "index": 0,
           "size": 0,
           "md5": "",
-          "url": "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/part_1.zip"
+          "url": "/part_1.zip"
         },
         {
           "index": 0,
           "size": 0,
           "md5": "",
-          "url": "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/part_2.zip"
+          "url": "/part_2.zip"
         }
       ]
     }
