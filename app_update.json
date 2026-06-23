@@ -1,6 +1,6 @@
 {
   "title": "测试更新",
-  "message": "1. 修复了富文本间距的bug\n2. 累死了一个程序员小妹妹",
+  "message": "1. 修复了富文本间距的bug\n2. 累死了一个程序员小妹妹\n3. 编辑器支持了一堆好玩的字体和好看的背景图",
   "version_name": "1.0.2",
   "version_code": 102000,
   "url": {
@@ -21,12 +21,18 @@
       "size": 0,
       "url": [],
       "parts": [
-       {
-        "index":0,
-        "size":0,
-        "md5":"",
-        "url": ""
-       } 
+        {
+          "index": 0,
+          "size": 0,
+          "md5": "",
+          "url": "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/part_1.zip"
+        },
+        {
+          "index": 0,
+          "size": 0,
+          "md5": "",
+          "url": "https://cdn.jsdelivr.net/gh/yangxiaoweihn/test_abc@0.0.7/part_2.zip"
+        }
       ]
     }
   },
