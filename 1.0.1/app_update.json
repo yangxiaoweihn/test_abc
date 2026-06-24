@@ -1,0 +1,83 @@
+{
+  "title": "测试更新",
+  "message": "1. 修复了富文本间距的bug\n2. 累死了一个程序员小妹妹\n3. 编辑器支持了一堆好玩的字体和好看的背景图",
+  "version_name": "1.0.1",
+  "version_code": 102000,
+  "arch": {
+    "universe": {
+      "md5": "036e7a1d7fc1863b927def0df889b577",
+      "size": 189412972,
+      "url": [
+        "/1.0.1/universe/app-beta-debug.apk"
+      ],
+      "parts": [
+        {
+          "index": 0,
+          "size": 18874368,
+          "md5": "3239978eec6d498c2f36d03d5bc973e0",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.0"
+        },
+        {
+          "index": 1,
+          "size": 18874368,
+          "md5": "0dcd18978cb9f7c14ba7b65501de3a34",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.1"
+        },
+        {
+          "index": 2,
+          "size": 18874368,
+          "md5": "49061b3e1544ea5c46dd60657b55a3a8",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.2"
+        },
+        {
+          "index": 3,
+          "size": 18874368,
+          "md5": "65f9e1d435bbedb0d4e72dd099a6727c",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.3"
+        },
+        {
+          "index": 4,
+          "size": 18874368,
+          "md5": "5f502de55b5dfc5a2c3ba5bb0366add3",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.4"
+        },
+        {
+          "index": 5,
+          "size": 18874368,
+          "md5": "cbcf3db51f4d9d797167830885d6a6f6",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.5"
+        },
+        {
+          "index": 6,
+          "size": 18874368,
+          "md5": "a5b95b2eb7ed93820bab82f9684095a5",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.6"
+        },
+        {
+          "index": 7,
+          "size": 18874368,
+          "md5": "2ef9d858af69537e189968b7cb48025f",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.7"
+        },
+        {
+          "index": 8,
+          "size": 18874368,
+          "md5": "4662625d6df152ff23d9741d75b29fb9",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.8"
+        },
+        {
+          "index": 9,
+          "size": 18874368,
+          "md5": "ab1671a816e6fa9769447ebc571c3f37",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.9"
+        },
+        {
+          "index": 10,
+          "size": 669292,
+          "md5": "e7b83241feb2913db7488bff02545634",
+          "url": "/1.0.1/universe/app-beta-debug.apk.part.10"
+        }
+      ]
+    }
+  }
+}
